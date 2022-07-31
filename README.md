@@ -1,2 +1,3 @@
-# courses-machine-learning
-Master's degree machine learning course excercises
+# Machine Learning course, autumn 2021.
+
+
